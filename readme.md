@@ -1,3 +1,7 @@
+Lggi:
+https://www.ev3dev.org/docs/tutorials/using-lego-dimensions-toy-pad/
+
+
 This project is currently focused on working out the communications protocol used.
 The LED control commands appear to be deciphered.
 A python library for controling the gateway device's lights is provided. (lego_dimensions_gateway.py)
